@@ -1,0 +1,62 @@
+[
+    { 
+        "id": 1,
+        "curso": "Analise e Desenvolvimento de Sistemas",
+        "duracao": "2 a 3 anos",
+        "areaDeConhecimento":"Exatas"
+    },
+    { 
+        "id": 2,
+        "curso": "Farmacia",
+        "duracao": " 5 anos",
+        "areaDeConhecimento":"Saude"
+    },
+    { 
+        "id": 3,
+        "curso": "Engenharia Quimica",
+        "duracao": " 5 anos",
+        "areaDeConhecimento":"Exatas"
+    },
+    { 
+        "id": 4,
+        "curso": "Administracao",
+        "duracao": "4 anos",
+        "areaDeConhecimento":"Humanas"
+    },
+    { 
+        "id": 5,
+        "curso": "Direito",
+        "duracao": "5 anos",
+        "areaDeConhecimento":"Humanas"
+    },
+    { 
+        "id": 6,
+        "curso": "Psicologia",
+        "duracao": "5 anos",
+        "areaDeConhecimento":"Saude"
+    },
+    { 
+        "id": 7,
+        "curso": "Odontologia",
+        "duracao": "5 anos",
+        "areaDeConhecimento":"Saude"
+    },
+    { 
+        "id":8,
+        "curso": "Ciencias da Computação",
+        "duracao": "4 anos",
+        "areaDeConhecimento":"Exatas"
+    },
+    { 
+        "id": 9,
+        "curso": "Enfermagem",
+        "duracao": "5 anos",
+        "areaDeConhecimento":"Saude"
+    },
+    { 
+        "id": 10,
+        "curso": "Quimica Industrial",
+        "duracao": "4 a 6 anos",
+        "areaDeConhecimento":"Exatas"  
+    },
+]

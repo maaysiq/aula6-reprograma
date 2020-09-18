@@ -1,0 +1,62 @@
+[
+    { 
+        "id": 1,
+        "nomeComercial": "tylenol",
+        "principioAtivo": "paracetamol",  
+        "classeTeraupetica": "analgesico"
+    },
+    { 
+        "id": 2,
+        "nomeComercial": "advil",
+        "principioAtivo": "ipuprofeno",  
+        "classeTeraupetica": "analgesico"
+    },
+    { 
+        "id": 3,
+        "nomeComercial": "luftal",
+        "principioAtivo": "simeticona",  
+        "classeTeraupetica": "antiflatulentos puros e carminativos"
+    },
+    { 
+        "id": 4,
+        "nomeComercial": "syntocinon",
+        "principioAtivo": "ocitocina",  
+        "classeTeraupetica": "ocitocitos"
+    },
+    { 
+        "id": 5,
+        "nomeComercial": "decadron",
+        "principioAtivo": "dexametasona",  
+        "classeTeraupetica": "corticosteroides"
+    },
+    { 
+        "id": 6,
+        "nomeComercial": "novalgina",
+        "principioAtivo": "dipirona monoidratada",  
+        "classeTeraupetica": "analgesico"
+    },
+    { 
+        "id": 7,
+        "nomeComercial": "heparina",
+        "principioAtivo": "liquemine",  
+        "classeTeraupetica": "anticoagulantes e trombolíticos "
+    },
+    { 
+        "id": 8,
+        "nomeComercial": "lexotan",
+        "principioAtivo": "bromazepam",  
+        "classeTeraupetica": "benzodiazepínica"
+    },
+    { 
+        "id": 9,
+        "nomeComercial": "xenical",
+        "principioAtivo": "orlistate",  
+        "classeTeraupetica": "antiobesidade"
+    },
+    { 
+        "id": 10,
+        "nomeComercial": "cipramil",
+        "principioAtivo": "citalopram",  
+        "classeTeraupetica": "antidepressivos"
+    }
+]

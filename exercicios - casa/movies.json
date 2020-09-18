@@ -1,0 +1,62 @@
+[
+    { 
+        "id": 1,
+        "filme": "Como eu era antes de você!",
+        "ano": 2016, 
+        "direcao":"Jojo Moyes"
+    },
+    { 
+        "id": 2,
+        "filme": "La La Land",
+        "ano": 2016, 
+        "direcao": "Damien Chazelle"
+    },
+    { 
+        "id": 3,
+        "filme": "Diario de uma Paixao",
+        "ano": 2004, 
+        "direcao":"Nick Cassavetes"
+    },
+    { 
+        "id": 4,
+        "filme": "A Bela e a Fera",
+        "ano": 1991, 
+        "direcao":"Bill Condon"
+    },
+    { 
+        "id": 5,
+        "filme": "Quem Quer Ser um Milionário?",
+        "ano": 2008, 
+        "direcao":"Danny Boyle"
+    },
+    { 
+        "id": 6,
+        "filme": "Titanic",
+        "ano": 1997, 
+        "direcao": "James Cameron"
+    },
+    { 
+        "id": 7,
+        "filme": "A Culpa É das Estrelas",
+        "ano": 2014, 
+        "direcao": "Josh Boone"
+    },
+    { 
+        "id": 8,
+        "filme": "Ghost – Do Outro Lado da Vida",
+        "ano": 1990, 
+        "direcao": "Jerry Zucker"
+    },
+    { 
+        "id": 9,
+        "filme": "Uma Linda Mulher",
+        "ano": 1990, 
+        "direcao": "Garry Marshall"
+    },
+    { 
+        "id": 10,
+        "filme": "Orgulho e Preconceito",
+        "ano": 2005, 
+        "direcao": "Joe Wright"
+    }
+]
