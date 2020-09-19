@@ -1,13 +1,14 @@
 [
     {
         "id" : 1,
-        "dataInclusao": 13/09/2020,
+        "dataInclusao": 13-09-2020,
         "concluido" : false,
         "descricao": "Criar minha lista de tarefas",
         "nomeColaboradora" :"Mayara"
-    }, {
+    }, 
+    {
         "id" : 2,
-        "dataInclusao": 13/09/2020,
+        "dataInclusao": 13-09-2020,
         "concluido" : false,
         "descricao": "Criar minha lista de tarefas",
         "nomeColaboradora" :"Mayara"

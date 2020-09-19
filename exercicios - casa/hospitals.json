@@ -1,0 +1,62 @@
+[
+    { 
+        "id": 1,
+        "hospital": "Israelita Albert Einstein",
+        "especialidades": "[cardioligia, cirurgia, neurologia, oncologia, ortopedia e reumatologia, pediatria, psiquiatria, transplantes]",  
+        "cidade": "Sao Paulo"
+    },
+    { 
+        "id": 2,
+        "hospital": "Sirio Libanes",
+        "especialidades": "[cardioligia, cirurgia plastica, otorrinolaringologia, oncologia, ortopedia e reumatologia, pediatria, dermatologia]",  
+        "cidade": "Sao Paulo"
+    },
+    { 
+        "id": 3,
+        "hospital": "Alemão Oswaldo Cruz",
+        "especialidades": "[oncologia, obesidade e diabetes, hernia, cardiologia, urologia, cirurgia robotica, endoscopia]",  
+        "cidade": "Sao Paulo"
+    },
+    { 
+        "id": 4,
+        "hospital": "Moinhos de Vento",
+        "especialidades": "[anestesia, cardiologia, cirurgia vascular e cardíaca cirurgia geral, coloproctologia, emergência, emergência pediátrica, fertilidade e reprodução assistida, gastroenterologia e cirurgia do aparelho digestivo, Ginecologia e Obstetrícia, mastologia, nefrologia, oncologia, ortopedia e traumatologia, urologia, psiquiatria]",  
+        "cidade": "Porto Alegre"
+    },
+    { 
+        "id": 5,
+        "hospital": "Imip",
+        "especialidades": "[saude da criança, saude da mulher, saude do adulto, diagnostico e terapia, saude indigena]",  
+        "cidade": "Recife"
+    },
+    { 
+        "id": 6,
+        "hospital": "Hospital de Referência Oftalmológica",
+        "especialidades": "oftalmologia",  
+        "cidade": "Sao Luiz do Maranhao"
+    },
+    { 
+        "id": 7,
+        "hospital": "Hospital do Cancer de Pernambuco",
+        "especialidades": "oncologia",  
+        "cidade": "Recife"
+    },
+    { 
+        "id": 8,
+        "hospital": "Hospital Beneficente Portuguesa",
+        "especialidades": "[dermatologia, endocrinologia, fonoaudiologia, fisioterapia, ginecologia, gastroenterologia, hematologia, mastologia, nefrologia, nutricao, odontologia, oncologia, proctologia, psicologia, urologia]",  
+        "cidade": "Belem"
+    },
+    { 
+        "id": 9,
+        "hospital": "Hospital Samaritano",
+        "especialidades": "[hematologia, cardiologia,nefrologia, gastroenterologia,ginecologia, urologia, angiologia, ortopedia, oftamologia, neurocirurgia, bucomaxilofacial, plastica]",  
+        "cidade": "João Pessoa"
+    },
+    { 
+        "id": 10,
+        "hospital": "Hospital Quinta D'Or",
+        "especialidades": "[anestesia, cardiologia, cirurgia vascular e cardíaca cirurgia geral, coloproctologia, emergência, emergência pediátrica, fertilidade e reprodução assistida, gastroenterologia e cirurgia do aparelho digestivo, Ginecologia e Obstetrícia, mastologia, nefrologia, oncologia, ortopedia e traumatologia, urologia, psiquiatria]",  
+        "cidade": "Rio de Janeiro"
+    }
+]
